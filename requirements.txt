@@ -1,0 +1,26 @@
+# Kaggle Survey 2020/2022 — central dependencies
+
+# Target environment: Python 3.14
+# Install: python3.14 -m pip install -r requirements.txt
+
+# Core data & numerics
+pandas>=3.0.6
+numpy>=2.5.3
+scipy>=1.18.1
+pyarrow>=25.0.1
+
+# Machine learning
+scikit-learn>=1.9.1
+
+# Visualization & Dashboards
+matplotlib>=3.11.2
+seaborn>=0.13.2
+plotly>=7.1.0
+streamlit>=1.65.0
+
+# Notebooks / execution (optional for running .ipynb)
+nbformat>=5.11.1
+jupyter>=1.1.1
+
+# Reports
+reportlab>=5.0.1
