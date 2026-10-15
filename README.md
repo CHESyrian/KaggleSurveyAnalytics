@@ -27,7 +27,7 @@ Comparative analysis of the official **Kaggle Machine Learning & Data Science Su
 ## Project layout
 
 ```
-artifacts/
+KaggleSurveyAnalytics/ 
 ├── Datasets/
 │   ├── survey-2020/          # raw 2020 CSV
 │   ├── survey-2022/          # raw 2022 CSV
@@ -149,3 +149,7 @@ Dependencies are centralized in the project-root `requirements.txt`.
 ## License & attribution
 
 Survey data is published by Kaggle under the terms of the respective competition/dataset licenses. This analysis code and derived cleaned extracts are provided for research and educational use within this project.
+
+---
+
+# CreatedBy: `CHESyrian` With Help `Grok`
